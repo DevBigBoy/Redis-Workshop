@@ -111,6 +111,10 @@ To follow along with this workshop, participants should have a basic understandi
 - **Redis Commands**: [https://redis.io/commands](https://redis.io/commands)
 - **Redis GitHub Repository**: [https://github.com/redis/redis](https://github.com/redis/redis)
 
+## Youtube Videos
+
+- **Redis بالعربي**: [https://www.youtube.com/playlist?list=PLZd2bo_SbAm_ijqLfnx94qkmytbWjUQ-h](https://www.youtube.com/playlist?list=PLZd2bo_SbAm_ijqLfnx94qkmytbWjUQ-h)
+
 ---
 
 ### Getting Started
